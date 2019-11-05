@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>我的日记</title>
+    <url>/2019/11/05/%E6%88%91%E7%9A%84%E6%97%A5%E8%AE%B0/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
     <title>markdwon基本语法</title>
     <url>/2019/11/04/markdwon%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/</url>
     <content><![CDATA[<h1 id="极客站"><a href="#极客站" class="headerlink" title="极客站"></a>极客站</h1><h2 id="第一篇文章"><a href="#第一篇文章" class="headerlink" title="第一篇文章"></a>第一篇文章</h2><h3 id="3级标题"><a href="#3级标题" class="headerlink" title="3级标题"></a>3级标题</h3><ul>
